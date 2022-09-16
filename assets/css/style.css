@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+#header{
+    color: rgb(255, 255, 255);
+    background-color: #000223;
+    height: 100px;
+}
+
+#content {
+    background-color: #ff0000;
+    height: 300px;
+    width: 513px;
+}
+
+#footer {
+    color: rgb(255, 255, 255);
+    background-color: #000223;
+    height: 100px;
+}
